@@ -5,8 +5,6 @@ A Java application for face recognition under expressions, occlusions and pose v
 ## Description:
 
 - This is a prototype with the goal of improving recognition accuracy and reliability under un-cooperative scenarios like expressions, occlusions (obstacles like spectacles) and pose variations (<60deg).
-   
-- The project is tested with Bosphorous Database (http://bosphorus.ee.boun.edu.tr/default.aspx).
 
 ## Running the project:
 
